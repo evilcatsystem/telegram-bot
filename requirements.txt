@@ -1,0 +1,15 @@
+selenium
+pyTelegramBotAPI
+requests
+beautifulsoup4
+lxml
+psycopg2
+datetime
+matplotlib
+colorama
+Wikipedia-API
+translate
+SpeechRecognition
+urllib3
+matplotlib
+
